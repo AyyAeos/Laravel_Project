@@ -9,16 +9,16 @@ This is a hobby project for learning Laravel.
 ## 📸 Project Screenshots
 
 1. **Dashboard**  
-   ![Dashboard](dashboard.png)
+   ![Dashboard](assets/dashboard.png)
 
 2. **Task View**  
-   ![Task View](task.png)
+   ![Task View](assets/task.png)
 
 3. **Task Lists**  
-   ![Task Lists](list.png)
+   ![Task Lists](assets/list.png)
 
 4. **Create Task**  
-   ![Create Task](Create_task.png)
+   ![Create Task](assets/Create_Task.png)
 
 ---
 
