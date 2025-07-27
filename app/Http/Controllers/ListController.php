@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 use Inertia\Inertia;
 use App\Models\TaskList;
 
-// --resource
+
 class ListController extends Controller
 {
     /**
